@@ -1,0 +1,18 @@
+body{
+    background-color: #212120;
+}
+.bg-new{
+    background-color: #92257a;
+}
+header img{
+    height: 50px;
+    width: 50px;
+}
+footer {
+    height: 15vh;
+    background-color: #92257a;
+}
+footer img{
+    height: 50px;
+    width: 50px;
+}
